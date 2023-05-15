@@ -13,10 +13,8 @@
 // You can read more here:
 // https://on.cypress.io/configuration
 // ***********************************************************
-
 // Import commands.js using ES2015 syntax:
 import '@testing-library/cypress/add-commands';
-import '@percy/cypress';
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
