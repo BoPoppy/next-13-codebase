@@ -13,6 +13,7 @@
   },
   "root": true,
   "parser": "@babel/eslint-parser",
+  "ignorePatterns": ["./.storybook"],
   "plugins": [
     "react",
     "react-hooks",
